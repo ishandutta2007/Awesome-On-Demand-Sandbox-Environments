@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-On-Demand-Sandbox-Environments/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-On-Demand-Sandbox-Environments?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-On-Demand-Sandbox-Environments/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-On-Demand-Sandbox-Environments?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-On-Demand-Sandbox-Environments/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-On-Demand-Sandbox-Environments?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-On-Demand-Sandbox-Environments/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-On-Demand-Sandbox-Environments?style=flat-square&color=blue" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-On-Demand-Sandbox-Environments/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -63,9 +63,9 @@ The table below details leading commercial and hosted platforms offering on-dema
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosting ephemeral environments, Kubernetes virtualization, and local cloud sandboxing. **Sorted in descending order by GitHub Stars ⭐**.
+Curated open-source projects for self-hosting ephemeral environments, Kubernetes virtualization, and local cloud sandboxing. **Sorted in descending order by GitHub_Stars ⭐**.
 
-| Project | Stars | Focus & Description |
+| Project | GitHub_Stars | Focus & Description |
 | :--- | :--- | :--- |
 | **[Daytona](https://github.com/daytonaio/daytona)** | [![Stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white)](https://github.com/daytonaio/daytona/stargazers) | Open-source development environment manager and infrastructure engine for securely spinning up standardized dev sandboxes and AI agent workspaces in seconds. |
 | **[LocalStack](https://github.com/localstack/localstack)** | [![Stars](https://img.shields.io/github/stars/localstack/localstack?style=social&color=white)](https://github.com/localstack/localstack/stargazers) | Fully functional local AWS cloud stack. Spin up mock S3, Lambda, DynamoDB, SQS, and 40+ cloud services locally without incurring AWS charges or internet access. |
@@ -129,7 +129,7 @@ Contributions are welcome! Please follow these guidelines:
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a feature branch: `git checkout -b add-sandbox-tool`.
-3. 📝 Update `README.md` keeping the tabular format, exact pricing, free-tier limitations, and GitHub star counts.
+3. 📝 Update `README.md` keeping the tabular format, exact pricing, free-tier limitations, and GitHub Stars_Counts.
 4. 🚀 Submit a **Pull Request** with a concise description of the tool and its category.
 
 Please ensure all linked platforms and repositories are actively maintained and adhere to community guidelines.
